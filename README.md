@@ -5,6 +5,10 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20iOS%20%7C%20Android-007aff.svg)](#)
 [![Design](https://img.shields.io/badge/Design-iOS%2026%20Liquid%20Glass-5856d6.svg)](#)
 
+<p align="center">
+  <b>简体中文</b> | <a href="README_EN.md">English</a>
+</p>
+
 > **极速多文件并发 · 可靠分片断点续传 · 跨平台零安装 · 原生 iOS 26 空间流体美学**
 
 无需连接数据线、无需登录第三方账号、无需在各个设备上下载安装繁重的客户端。只要在同一局域网（同一 Wi-Fi）下，任意设备打开浏览器即可互相发现并极速互传文件。
