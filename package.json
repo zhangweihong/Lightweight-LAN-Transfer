@@ -1,0 +1,22 @@
+{
+  "name": "filetransporter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "轻量级局域网文件传输：极速多文件并发、可靠断点续传、跨平台免安装、iOS 26 空间美学设计。",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.5.4",
+    "qrcode-generator": "^2.0.4"
+  },
+  "devDependencies": {
+    "jsqr": "^1.4.0",
+    "pngjs": "^7.0.0"
+  }
+}
